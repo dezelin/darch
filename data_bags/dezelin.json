@@ -1,0 +1,8 @@
+{
+  "id": "dezelin",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJzcwXb/5tk/lE4Wv+PU1OMZwH5SnQH2mYkv/h/IyN48sGSFz0uc/GVe9Pbtzp0AoR+95oVQbKDWzRdGQj9nlHWdt+vyRXXZl9Z+kohHjxFDtVmNIjfMJeNb6NrK8K+aSPQK2ctsLTmvlSkgPx/ajmtSYOkuUD1cjuKXl7PUtM4Sby5LCGG6mwsL/wmMLhgQ74kKu0BlRtU6QJDOQUGN0Dbmt04runZdZqmMR6tlQTeXOyGHPG4Ipzw9Gm3SsW+T5Mf4vHfv5u/GHwnN99tx2+ggDqXynjA9B3oV1LSftRgF7JqfJNOQOhvcmYBK81ErodwDJfiLMDdlIGB7Urefe9 dezelin@gmail.com",
+  "groups": [ "sysadmin", "dba", "devops", "wheel" ],
+  "uid": 2001,
+  "shell": "\/bin\/bash",
+  "comment": "BOFH",
+}

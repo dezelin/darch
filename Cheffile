@@ -1,0 +1,25 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+site 'http://community.opscode.com/api/v1'
+
+cookbook "ohai"
+cookbook "git"
+cookbook "users"
+cookbook "vim"
+cookbook "sudo"
+cookbook "ntp"
+cookbook "resolver"
+cookbook "build-essential"
+cookbook "ruby"
+cookbook "man"
+cookbook "openssh"
+cookbook "rsync"
+cookbook "apt"
+
+cookbook "nginx"
+
+cookbook "apache2"
+cookbook "varnish"
+
+cookbook "mysql"
